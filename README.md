@@ -13,8 +13,8 @@ This repository provides a simple script that monitors the `/etc/passwd` file fo
 
 1. Copy the script  
 
-`sudo cp check_passwd_changes.sh /usr/local/bin/  `
-`sudo chmod +x /usr/local/bin/check_passwd_changes.sh  `
+`sudo cp check_passwd_changes.sh /usr/local/bin/`  
+`sudo chmod +x /usr/local/bin/check_passwd_changes.sh` 
 
 2. Install cron job  
 
